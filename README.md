@@ -1,2 +1,2 @@
 # learningit
-Learning about git and github.
+Learning about git.
